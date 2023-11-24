@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://ik.imagekit.io/lsfjjc0wv/shopping-app-images/image1.png?updatedAt=1700850199130" alt="project-image"></p>
 
-<p id="description">Welcome to our React Shopping App, a cutting-edge project that combines the power of React, Tailwind CSS, and Redux for an exceptional online shopping experience. This open-source endeavor is designed to guide developers through the creation of a dynamic web application, showcasing how to seamlessly integrate React components with Tailwind CSS for styling and Redux for efficient state management.</p>
+<p id="description">Welcome to my React Shopping App, a cutting-edge project that combines the power of React, Tailwind CSS, and Redux for an exceptional online shopping experience. This open-source endeavor is designed to guide developers through the creation of a dynamic web application, showcasing how to seamlessly integrate React components with Tailwind CSS for styling and Redux for efficient state management.</p>
 
 <h2>🚀 Demo</h2>
 
